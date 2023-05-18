@@ -18,8 +18,7 @@ const App = () => {
         <Route path='/login' element={<LoginForm />}/>
         <Route path='*' element={<NotFound />}/>
       </Routes> */} 
-      <Home />
-      {/* <Homeindex />*/} 
+      <Home /> 
     </div>
   )
 }
