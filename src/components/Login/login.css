@@ -1,0 +1,51 @@
+.form-m{
+    padding: 20px;
+    border: 1px solid rgb(17, 5, 179);
+    border-radius: 5px;
+    background-color: rgb(11, 135, 85);
+    text-align: center;
+    width: 400px;
+    margin: auto;
+}
+
+.submit{
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: aqua;
+}
+
+.cancel{
+    padding: 10px;
+    border: 1px solid rgb(35, 3, 100);
+    border-radius: 5px;
+    background-color: orange;
+}
+
+.Hello {
+    border-radius: 5px;
+    height: 25px;
+}   
+
+.child-input-d{
+    padding: 255px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    background-color: blue;
+    margin: 5px;
+}
+
+.f-input {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 700px;
+    box-shadow: 6px 2px 5px 2px gray;
+    font-style: italic;
+    padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+    border: 1px solid rgb(17, 5, 179);
+    border-radius: 5px;
+    background-color: rgb(197, 209, 30);
+}

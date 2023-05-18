@@ -1,0 +1,13 @@
+.sign-in{
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: aqua;
+}
+
+.cancel{
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: orange;
+}
