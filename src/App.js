@@ -8,7 +8,7 @@ import Homeindex from './userLogin/Homeindex'
 const App = () => {
   return (
     <div> 
-      {/* <Routes >
+      <Routes >
         <Route path="/" element={<Home />} >
           <Route index element={<HomeContent />} />
           <Route path="/project" element={<Project />} />
@@ -18,8 +18,8 @@ const App = () => {
         <Route path='/login' element={<LoginForm />}/>
         <Route path='*' element={<NotFound />}/>
       </Routes> */}
-      {/* <Home /> */}
-      <Homeindex /> 
+      {/* <Home />
+      {/* <Homeindex />  */}
     </div>
   )
 }
